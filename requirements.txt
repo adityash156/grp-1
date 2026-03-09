@@ -6,3 +6,5 @@ python-multipart
 python-dotenv
 dnspython
 razorpay
+pydantic[email]
+email-validator
